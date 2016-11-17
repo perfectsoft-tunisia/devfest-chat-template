@@ -1,0 +1,9 @@
+.main-sidebar {
+    padding-top: 0;
+}
+
+@media (max-width: 767px) {
+    .main-sidebar {
+        padding-top: 50px;
+    }
+}
