@@ -7,3 +7,50 @@
         padding-top: 50px;
     }
 }
+
+.wrapper {
+    position: inherit;
+}
+
+.fa-5 {
+    font-size: 12em;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #fff;
+    z-index: 99999;
+    height: 100%;
+}
+
+.fa-spin {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 144px;
+    height: 168px;
+    margin: -84px 0 0 -72px;
+    padding: 0;
+}
+
+.direct-chat {
+    margin-bottom: 0;
+}
+
+.box-footer {
+    bottom: 0;
+    position: fixed;
+}
+
+/*.direct-chat-messages {*/
+/*    height: 784px;*/
+/*}*/
+
+.box {
+    border-radius: inherit;
+}
+
